@@ -5,6 +5,7 @@ I am Birgit :smiley_cat:, a passionate frontend developer with lots of experienc
 Right now I am in the middle of the [Technigo bootcamp](https://www.technigo.io/). A 24-week fast-paced remote bootcamp :muscle: focused on 🛠️
 - JavaScript (ES6) 
 - React 
+- Redux
 - HTML5
 - CSS 
 - Node.js 
