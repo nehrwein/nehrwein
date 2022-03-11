@@ -2,15 +2,15 @@
 
 I am Birgit :smiley_cat:, a passionate frontend developer with lots of experience managing IT-projects on the client side. I love to code in Javascript and React and I have a big fullstack ambition! :construction_worker:
 
-Right now I am in the middle of the [Technigo bootcamp](https://www.technigo.io/). A 24-week fast-paced remote bootcamp :muscle: focused on 🛠️
+TechStack:
 - JavaScript (ES6) 
 - React 
 - Redux
 - HTML5
 - CSS 
-- Node.js 
+- Node.js
+- MongoDB 
 
-I do weekly projects covering everything from the basics of programming to structuring web projects in the latest technologies. 
 
 Say hi 👋 on LinkedIn: [Linkedin](https://www.linkedin.com/in/birgit-nehrwein-9b4656194/)
 
