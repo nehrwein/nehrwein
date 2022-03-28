@@ -7,9 +7,10 @@ TechStack:
 - React 
 - Redux
 - HTML5
-- CSS 
+- CSS
 - Node.js
-- MongoDB 
+- MongoDB
+- TypeScript
 
 
 Say hi 👋 on LinkedIn: [Linkedin](https://www.linkedin.com/in/birgit-nehrwein-9b4656194/)
