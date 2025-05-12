@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-I am Birgit :smiley_cat:, a user-centered Frontend Developer with a previous senior background
-in IT project management.
+I am Birgit :smiley_cat:
 
 Tech Stack: 
 * JavaScript
