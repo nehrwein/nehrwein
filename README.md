@@ -1,21 +1,18 @@
 ### Hi there 👋
 
-I am Birgit :smiley_cat:, a passionate frontend developer with lots of experience managing IT-projects on the client side. I love to code in Javascript and React and I have a big fullstack ambition! :construction_worker:
+I am Birgit :smiley_cat:, a user-centered Frontend Developer with a previous senior background
+in IT project management. I am a curious person and an analytical engineer with a sense of detail.
 
-TechStack:
-- JavaScript (ES6) 
-- React 
-- Redux
-- HTML5
-- CSS
-- Node.js
-- MongoDB
-- TypeScript
-
+Tech Stack: 
+* JavaScript
+* Typescript
+* React 
+* Tailwind
+* HTML/CSS
+* Node.js
+* MongoDB
 
 Say hi 👋 on LinkedIn: [Linkedin](https://www.linkedin.com/in/birgit-nehrwein-9b4656194/)
-
- 📫 Visit my [Portfolio](https://www.nehrwein.com/)
 
 
 
